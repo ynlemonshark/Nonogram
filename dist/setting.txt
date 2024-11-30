@@ -1,0 +1,4 @@
+Display_width:800
+Display_height:800
+FPS:40
+Sensitivity:10
